@@ -53,4 +53,4 @@ The best overall model is:
     ##                        Model Cutoff Specificity Sensitivity Totals
     ##  Generalised Linear Binomial   0.09       0.474        0.77  1.244
 
-While the models as not quite as accurate as I had hoped, I do feel that the project has been a success and that I have a greater understanding of machine learning and R markdown.
+While the models as not quite as accurate as I had hoped, I do feel that the project has been a success and that I now have a greater understanding of machine learning and R markdown.
