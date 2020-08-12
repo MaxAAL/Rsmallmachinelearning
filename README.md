@@ -1,5 +1,5 @@
 # Rsmallmachinelearning
-This is a small project I have undertaken in order to learn more about machine learning and R markdown. The aim is to create a simple model that can predict whether or not someone has recieved a loan based on certain criteria. Then to programmatically analyse the performance of these models and see which one performs best. Then finally to create a markdown document summarising the results. A sample of the data that I am using in this project can be seen below:
+This is a small project I undertook in order to learn more about machine learning and R markdown. The aim was to create a simple model that could predict whether or not someone has recieved a loan based on certain criteria, then to programmatically analyse the performance of these models and see which one performs best. Finally to create a markdown document summarising the results, a small sample of the data that I am using in this project can be seen below:
 
     ##   loan_status loan_amnt int_rate grade emp_length home_ownership
     ## 1           0      5000    10.65     B         10           RENT
